@@ -12,6 +12,6 @@ This repository hosts the MATLAB implementation of the `G0Luminance` function, w
 - Other Functions: Include various support functions from the MCSL-tools, which are utilized for detailed color calculations and analysis.
 
 ### Credits
-Luke Hellwig, Tucker Downs, Minyao Li, Michael Murdoch, and Yongmin Park for their contributions to the MCSL-tools used in this project.
+MCSL-tools used in this project.
 
 Please feel free to contact me at sa5141@rit.edu for any comments/questions.
